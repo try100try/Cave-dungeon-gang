@@ -1,3 +1,16 @@
+/*
+Du skal bruge:
+(Jeg bruger ikke breadboard til dette men det kan man nemt tilføje)
+En arduino? hvad regner du med lol
+Passive buzzer
+En god ven og en dejlig stor kop te/mælk
+2 male to female ledninger.
+
+Opstilling:
+plus siden af din passive buzzer skal være i pin8
+den anden side skal bare være i ground
+*/
+
 #define N_B0  31
 #define N_C1  33
 #define N_CS1 35
